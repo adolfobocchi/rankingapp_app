@@ -1,0 +1,18 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex; 
+  justify-content: center;
+  background-color: #FC4A38;
+  align-items: center;
+}
+
+.ranking-area {
+  width: 320px;
+  height: 380px;
+  border: 1px solid #FCAF38;
+}
+
+h2 {
+  color: #FFF;
+}
